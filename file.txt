@@ -1,3 +1,5 @@
 Welcome to Class today
 
 Today we're discussing GIT
+
+We're done with today's class
